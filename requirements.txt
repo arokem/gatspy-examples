@@ -1,3 +1,6 @@
 gatspy
 seaborn
 supersmoother
+scipy
+numpy
+scikit-learn
