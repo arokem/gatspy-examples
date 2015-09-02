@@ -1,3 +1,4 @@
+astroml
 gatspy
 seaborn
 supersmoother
